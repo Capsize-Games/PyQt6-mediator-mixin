@@ -10,7 +10,7 @@ Key features:
 ## Installation
 
 ```bash
-pip install PyQt6_mediator_mixin
+pip install PyQt6-mediator-mixin
 ```
 
 ## Usage
