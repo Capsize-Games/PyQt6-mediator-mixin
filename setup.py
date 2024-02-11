@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='PyQt6-mediator-mixin',
-    version="1.0.1",
+    version="1.0.2",
     author="Capsize LLC",
     description="A PyQt6 mediator mixin",
     long_description=open("README.md", "r", encoding="utf-8").read(),
