@@ -2,6 +2,8 @@
 
 [![Upload Python Package](https://github.com/Capsize-Games/PyQt6-mediator-mixin/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Capsize-Games/PyQt6-mediator-mixin/actions/workflows/python-publish.yml)
 
+![image](https://github.com/Capsize-Games/PyQt6-mediator-mixin/assets/25737761/8282b463-9cf7-46cf-836a-2efb6db30a36)
+
 `PyQt6 Mediator Mixin` is a Python library that enhances PyQt6's signal-slot mechanism by implementing the mediator pattern. This pattern allows classes to emit and receive signals without knowing about each other, leading to more modular and maintainable code.
 
 Key features:
